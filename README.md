@@ -25,7 +25,7 @@ Welcome to our Car Recommendation Web Application! This application utilizes Gen
 ## Installation
 Follow these steps to get the application up and running on your local machine.
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/shivashankarmn/CarWhiz.git
 
    
    git clone https:
